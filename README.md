@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Tiwari</h1>
 <h3 align="center">A passionate Java developer from Lucknow</h3>
 <img align="right" alt="coding" width="550" src="https://github.com/sachin11p12/sachin11p12/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin11p12&label=Profile%20views&color=0e75b6&style=flat" alt="sachin11p12" /> </p>
+<p align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ2NmkzNWVqcGIzZmJ3ZnoxaHMxbzFnejVjdTk5MDFtb3RvejFibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
