@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Sorting-Visualizer">Sorting Visualizer</a>
 
-- 💬 Ask me about **Java, MySQL, DSA**
+- 💬 Ask me about **Java, SQL, DSA**
 
 - 📫 How to reach me **sachin11p12@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ah7rPPkpMLZVKuQ8xEAID3os6SgYy6gi/view?usp=drivesdk">Link</a>
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
