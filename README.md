@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA with Java, MySQL.**
 
-- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Sorting-Visualizer">Sorting Visualizer</a>
+- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Sorting-Visualizer">Bank Management System</a>
 
 - 💬 Ask me about **Java, SQL, DSA**
 
