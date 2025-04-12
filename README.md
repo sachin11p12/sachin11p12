@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/sachin11p12/Instamart">Instamart</a>
 
-- 🌱 I’m currently learning **DSA with Java, MySQL.**
+- 🌱 I’m currently learning **DSA with Java, MySQL, Spring Boot**
 
-- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Sorting-Visualizer">Bank Management System</a>
+- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Sorting-Visualizer">NextGen Banking Project</a>
 
 - 💬 Ask me about **Java, SQL, DSA**
 
