@@ -4,11 +4,11 @@
 <img  alt="coding "align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtyM3RxYzVxdHV0dGhkNDRrOG5hMWl0dWxlNnl5d3RrODNkM2libSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin11p12&label=Profile%20views&color=0e75b6&style=flat" alt="sachin11p12" />  </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/sachin11p12/Instamart">Bank Manage System</a>
+- 🔭 I’m currently working on <a href="https://github.com/sachin11p12/Instamart">Bank Management System</a>
 
 - 🌱 I’m currently learning **DSA with Java, MySQL, Spring Boot**
 
-- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Sorting-Visualizer">NextGen Banking Project</a>
+- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Sorting-Visualizer">Bank Management System</a>
 
 - 💬 Ask me about **Java, SQL, DSA**
 
