@@ -1,22 +1,22 @@
 ![MasterHead](https://github.com/sachin11p12/sachin11p12/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sachin Tiwari</h1>
-<h3 align="center">A passionate Java developer from Lucknow</h3>
+<h3 align="center">A passionate Java FullStack developer from Lucknow</h3>
 <img  alt="coding "align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtyM3RxYzVxdHV0dGhkNDRrOG5hMWl0dWxlNnl5d3RrODNkM2libSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin11p12&label=Profile%20views&color=0e75b6&style=flat" alt="sachin11p12" />  </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/sachin11p12/Bank-Management-System">Bank Management System</a>
+- 🔭 I’m currently working on <a href="https://github.com/sachin11p12/Bank-Management-System">Socia Meeia webapp</a>
 
-- 🌱 I’m currently learning **DSA with Java, MySQL, Spring Boot**
+- 🌱 I’m currently learning **FullStack (React + SpringBoot)**
 
 - 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Bank-Management-System">Bank Management System</a>
 
-- 💬 Ask me about **Java, SQL, DSA**
+- 💬 Ask me about **Java, SQL, DSA, Spring Boot, Hibernate**
 
 - 📫 How to reach me **sachin11p12@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ah7rPPkpMLZVKuQ8xEAID3os6SgYy6gi/view?usp=drivesdk">Link</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Lun_lrBD6Ow5kzgrRcbteOKJPVph-tO6/view?usp=sharing">Link</a>
 
-- ⚡ Fun fact **I think I am serious**
+- ⚡ Fun fact **I am not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
