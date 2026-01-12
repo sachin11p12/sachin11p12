@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/sachin-tiwari-18s21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-tiwari-18s21" height="30" width="40" /></a>
 <a href="https://instagram.com/sachin_rcb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin_rcb_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sachin_1821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin_1821" height="30" width="40" /></a>
-  <a href="https://linktr.ee/sachin11p12" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://www.bing.com/ck/a?!&&p=e1cf55db37013680e1716e9d1e382132806395db89d276669d80154679929ca3JmltdHM9MTc2ODA4OTYwMA&ptn=3&ver=2&hsh=4&fclid=1ff18e7a-3210-65a6-1123-98a233d96458&u=a1L2ltYWdlcy9zZWFyY2g_cT1saW5rdHJlZStsb2dvK2xpbmsmaWQ9NERCNDE4RkU1NTFGRjY1MzFENkE4RDc3NDYzNkMwRTc2QzAwNjE2NyZGT1JNPUlRRlJCQQ)" alt="sachin_1821" height="30" width="40" /></a>
+<a href="https://linktr.ee/sachin11p12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin_1821" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
