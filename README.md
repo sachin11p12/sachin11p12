@@ -1,12 +1,12 @@
 ![MasterHead](https://github.com/sachin11p12/sachin11p12/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sachin Tiwari</h1>
-<h3 align="center">Frontend Developer | React, Next.js, Tailwind | Learning Java Full-Stack</h3>
+<h3 align="center">Software Engineer | React, Next.js, Tailwind | Learning Java Full-Stack</h3>
 <img  alt="coding "align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtyM3RxYzVxdHV0dGhkNDRrOG5hMWl0dWxlNnl5d3RrODNkM2libSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin11p12&label=Profile%20views&color=0e75b6&style=flat" alt="sachin11p12" />  </p>
 
 - 🔭 I’m currently working on <a href="https://www.videostori.ai/">VideoStori.io AI-Powered Video Platform</a>
 
-- 🌱 I’m currently learning **Nextjs, TypeScript, Tailwindcss and Side by Side Java**
+- 🌱 I’m currently learning **SpringBoot**
 
 <!--- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Bank-Management-System#">Social Media app</a> -->
 
