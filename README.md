@@ -10,7 +10,7 @@
 
 <!--- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Bank-Management-System#">Social Media app</a> -->
 
-- 💬 Ask me about **React, Nextjs, TypeScript, JavaScript , Taiwindcss  SpringBoot**
+- 💬 Ask me about **React, Nextjs, Java , Taiwindcss, AI,  SpringBoot**
 
 - 📫 How to reach me **sachin11p12@gmail.com**
 
