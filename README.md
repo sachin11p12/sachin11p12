@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <a href="https://testpaperz.com/">Testpaperz.com </a>
 
-- 🌱I'm currently learning **Backend** with **Spring Boot**.
+- 🌱I'm currently learning **Backend** with **Spring Boot** and **AI**.
 
 <!--- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Bank-Management-System#">Social Media app</a> -->
 
